@@ -65,7 +65,7 @@ workon {{project_name}}   # reactivate existing environment
 
 Clone GitHub Project,
 ```bash
-
+https://github.com/KRISHBHADWAL/python_project.git
 cd banking-system
 ```
 
